@@ -9,5 +9,5 @@ You can move the cube with W,A,S,D. Jumping is trigged with the spacebar. The ga
 Build:
 --------------
 * Play the game online: http://www.johannesdeml.com/1on1/Web/Web.html
-* Download Windows 32 Bit: johannesdeml.com/1on1/1on1_32Bit.zip
-+ Download Windows 64 Bit: johannesdeml.com/1on1/1on1_64Bit.zip
+* Download Windows 32 Bit: http://www.johannesdeml.com/1on1/1on1_32Bit.zip
++ Download Windows 64 Bit: http://www.johannesdeml.com/1on1/1on1_64Bit.zip
